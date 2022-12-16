@@ -19,6 +19,8 @@ Reason for selection: Data under analysis belongs to undergraduate students, who
 The skillset required as per the jobs are different as per the role, but few factors contribute to each skillset. These factors and their corelation will be studied in the research. Several hypothesis will be considered from obseravations of the data, which will be tested using statistical tests for rejection/non rejection.
 #### Google Form Link: [https://forms.gle/qEcdFM2kAyriic7i8](https://forms.gle/qEcdFM2kAyriic7i8)
 
+
+### MAin Document: [https://docs.google.com/document/d/1YSU_h3vD2YZ5AAJl8BLwzGc-rfZ1uIDHo7prCdxrruU/edit?usp=sharing](https://docs.google.com/document/d/1YSU_h3vD2YZ5AAJl8BLwzGc-rfZ1uIDHo7prCdxrruU/edit?usp=sharing)
 ### Contributions:
 1. To contribute in the project, you will be working only on the given dataset. You need to create an issue mentioning the contribution and the methods you'll use for the task. 
 2. PR will be accepted only when you have been assigned an issue.
