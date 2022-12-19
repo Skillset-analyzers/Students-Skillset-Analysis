@@ -8,7 +8,8 @@ Data anonymization refers to the method of preserving private or confidential in
 ### Why do we need to anonymize our data?
 We need to anonymize our data in order to maintain privacy concerns of particpants of our survey. The survey included questions on personal background, education, skills and achievements of individuals, which can be misused if exposed to users with malicious intent.<br>
 <br>To avoid any such experiences, I am anonymizing the dataset so that all such possible activities can be reduced. I expect by this step of mine I'll be able to contribute to positive data experience for all.
-<br><img src="https://user-images.githubusercontent.com/76547274/208498957-d9b73695-9aa6-466e-81b8-1da212d88bc9.png" align="center">
+<br><br>
+<img src="https://user-images.githubusercontent.com/76547274/208498957-d9b73695-9aa6-466e-81b8-1da212d88bc9.png" alt="Sample Anonymization">
 
 
 #### What work have I done to anonymize data?
